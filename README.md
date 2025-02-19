@@ -50,8 +50,8 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## 🌍 Stay Connected
 Follow us on:
-- 📢 **Twitter:** [@k8s_security](https://twitter.com/k8s_security)
-- 💬 **Slack:** Join the CNCF Kubernetes Security channel
+- 📢 **Twitter:** 
+- 💬 **Slack:** Join the channel
 - 🌐 **Website:** Coming soon!
 
 Happy learning! 🚀
